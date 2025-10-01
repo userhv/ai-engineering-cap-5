@@ -4,6 +4,8 @@
 
 Para realizar essa tarefa, você irá precisar instalar o [Docker](https://docs.docker.com/engine/install/).
 
+Inicialmente, clone o repositório e siga os passos abaixo:
+
 1. Execute o comando no terminal
 
 ```bash
