@@ -1,6 +1,8 @@
 # Roteiro Prático de Engenharia de Prompt para Geração de Testes em Python
 
-### Configurando o ambiente
+## Configurando o ambiente
+
+Para realizar essa tarefa, você irá precisar instalar o [Docker](https://docs.docker.com/engine/install/).
 
 1. Execute o comando no terminal
 
@@ -8,7 +10,7 @@
     sudo docker compose up --build
 ```
 
-2. Acesse: http://localhost:3000
+2. Acesse: http://localhost:3000, essa será a interface que você comunicará com a LLM `qwen2.5:0.5b` para realizar o guia prático.
 
 3. Cadastre sua conta no openweb-ui. <sup>1</sup>
 
